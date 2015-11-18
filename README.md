@@ -1,1 +1,1 @@
-# hackerRank_solns
+# code practice
